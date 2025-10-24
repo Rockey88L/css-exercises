@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.oddNum {
+    background-color: #FFB6C1;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.oddNumTwo {
+    font-size: 24px;
+}
+
+#evenNumOne {
+    color: blue;
+    font-size: 36px;
+}
+
+#evenNumTwo {
+    font-size: 24px;
+    background-color: #90EE90;
+    font-weight: bold;
+}
